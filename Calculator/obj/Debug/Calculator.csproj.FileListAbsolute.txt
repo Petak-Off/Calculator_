@@ -1,0 +1,14 @@
+D:\Загрузки\Обучение\Программирование\Calculator\Calculator\Calculator\bin\Debug\Calculator.exe.config
+D:\Загрузки\Обучение\Программирование\Calculator\Calculator\Calculator\bin\Debug\Calculator.exe
+D:\Загрузки\Обучение\Программирование\Calculator\Calculator\Calculator\bin\Debug\Calculator.pdb
+D:\Загрузки\Обучение\Программирование\Calculator\Calculator\Calculator\obj\Debug\Calculator.csprojAssemblyReference.cache
+D:\Загрузки\Обучение\Программирование\Calculator\Calculator\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+D:\Загрузки\Обучение\Программирование\Calculator\Calculator\Calculator\obj\Debug\Calculator.exe
+D:\Загрузки\Обучение\Программирование\Calculator\Calculator\Calculator\obj\Debug\Calculator.pdb
+D:\Загрузки\Обучение\Программирование\Калькулятор\Calculator\bin\Debug\Calculator.exe.config
+D:\Загрузки\Обучение\Программирование\Калькулятор\Calculator\bin\Debug\Calculator.exe
+D:\Загрузки\Обучение\Программирование\Калькулятор\Calculator\bin\Debug\Calculator.pdb
+D:\Загрузки\Обучение\Программирование\Калькулятор\Calculator\obj\Debug\Calculator.csprojAssemblyReference.cache
+D:\Загрузки\Обучение\Программирование\Калькулятор\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+D:\Загрузки\Обучение\Программирование\Калькулятор\Calculator\obj\Debug\Calculator.exe
+D:\Загрузки\Обучение\Программирование\Калькулятор\Calculator\obj\Debug\Calculator.pdb
